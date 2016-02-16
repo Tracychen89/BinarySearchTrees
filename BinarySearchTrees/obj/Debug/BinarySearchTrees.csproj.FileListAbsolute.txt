@@ -1,0 +1,6 @@
+C:\Users\chenxin\Documents\GitHub\BinarySearchTrees\BinarySearchTrees\bin\Debug\BinarySearchTrees.exe.config
+C:\Users\chenxin\Documents\GitHub\BinarySearchTrees\BinarySearchTrees\bin\Debug\BinarySearchTrees.exe
+C:\Users\chenxin\Documents\GitHub\BinarySearchTrees\BinarySearchTrees\bin\Debug\BinarySearchTrees.pdb
+C:\Users\chenxin\Documents\GitHub\BinarySearchTrees\BinarySearchTrees\obj\Debug\BinarySearchTrees.csprojResolveAssemblyReference.cache
+C:\Users\chenxin\Documents\GitHub\BinarySearchTrees\BinarySearchTrees\obj\Debug\BinarySearchTrees.exe
+C:\Users\chenxin\Documents\GitHub\BinarySearchTrees\BinarySearchTrees\obj\Debug\BinarySearchTrees.pdb
